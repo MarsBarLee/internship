@@ -10,8 +10,8 @@ Learning from others to help write our own.
 
 ## How does a Best Practices Document differ from other documents?
 - Example: a cookbook on making soup step-by-step is a diffferent document from a chef's employee handbook on navigating a commerical kitchen
-- Another way we can understand different types of doucmentation is through this framework
-![Diátaxis Framework](https://diataxis.fr/)
+- Another way we can understand different types of doucmentation is through [this framework](https://diataxis.fr/)
+![Diátaxis Framework](https://diataxis.fr/_images/diataxis.png)
 
 ## Examples of Best Practices Document
 - Everyday examples: Instruction manuals on how frequently to clean your new appliance
